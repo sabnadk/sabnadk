@@ -1,3 +1,4 @@
+[![An image of @sabnadk's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sabnadk)](https://holopin.io/@sabnadk)
 ### Hi there 👋
 
 <!--
@@ -14,3 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabnadk&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabnadk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
