@@ -6,7 +6,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Politeknik Negeri Malang
 - 📫 How to reach me: 2141720009@student.polinema.ac.id
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love cats🐱
 
 ### Github Statistic
 <p align="left">
